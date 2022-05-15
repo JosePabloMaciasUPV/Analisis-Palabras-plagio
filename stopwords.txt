@@ -1,0 +1,4 @@
+The following' example shows the usage of fscanf() function como
+
+
+  salsa verde   i'm
